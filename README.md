@@ -1,2 +1,2 @@
 # TSISA_05
-![](https://github.com/Hukuma5/TSISA_03/blob/main/working_lab03.png?raw=true)
+![](https://github.com/Hukuma5/TSISA_05/blob/main/5%20лаба%20конечный%20вариант.jpg?raw=true)
